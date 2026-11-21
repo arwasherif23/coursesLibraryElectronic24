@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoursesLibraryElectornic.C_USER">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgGOAAIJAZEAAAAIIBAQMAAEAkAQAEMAABBAA=</HashCode>
+      <FileName>CUSER.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_SUBMISSION" />
+      <Property Name="C_ENROLLMENTS" />
+      <Property Name="C_SYSTEMACTIVITY" />
+      <Property Name="C_RESULTS" />
+      <Property Name="C_USERPERMISSIONS" />
+      <Property Name="C_ENROLLMENTS1" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SUBMISSION">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABEEIBAQE0IAAACAQAAAgAAAkgAACgACAAAAAA=</HashCode>
+      <FileName>C_SUBMISSION.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_ENROLLMENTS">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAgFEIAKAAQIAAAAAAAAAAAIAkEAAAEAGAAAAAA=</HashCode>
+      <FileName>C_ENROLLMENTS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SYSTEMACTIVITY">
+    <Position X="2.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEIAAAAAIAAAAAAABAAAAAkAAAAIACECAABA=</HashCode>
+      <FileName>C_SYSTEMACTIVITY.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_RESULTS">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEEIQAhAwIAggAAAAAgQAAAkAAAUAACAAAAAg=</HashCode>
+      <FileName>C_RESULTS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_USERPERMISSIONS">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEIAAAAAIAAAAAIAAAAAAAkAAAAABCAAAAAA=</HashCode>
+      <FileName>C_USERPERMISSIONS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_SYSTEMPREMISSION" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SYSTEMPREMISSION">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEIAAAAAIAAAIAAAAAAAAEEAAAAABAAAAAAA=</HashCode>
+      <FileName>C_SYSTEMPREMISSION.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_TRAINING">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <AssociationLine Name="C_ENROLLMENTS" Type="CoursesLibraryElectornic.C_ENROLLMENTS" ManuallyRouted="true">
+      <Path>
+        <Point X="11.5" Y="5.25" />
+        <Point X="11.5" Y="4.844" />
+        <Point X="10.706" Y="4.844" Type="JumpStart" />
+        <Point X="10.54" Y="4.844" Type="JumpEnd" />
+        <Point X="9.833" Y="4.844" Type="JumpStart" />
+        <Point X="9.667" Y="4.844" Type="JumpEnd" />
+        <Point X="8.083" Y="4.844" Type="JumpStart" />
+        <Point X="7.917" Y="4.844" Type="JumpEnd" />
+        <Point X="6.583" Y="4.844" Type="JumpStart" />
+        <Point X="6.417" Y="4.844" Type="JumpEnd" />
+        <Point X="5.49" Y="4.844" Type="JumpStart" />
+        <Point X="5.323" Y="4.844" Type="JumpEnd" />
+        <Point X="5.083" Y="4.844" Type="JumpStart" />
+        <Point X="4.917" Y="4.844" Type="JumpEnd" />
+        <Point X="3.74" Y="4.844" Type="JumpStart" />
+        <Point X="3.573" Y="4.844" Type="JumpEnd" />
+        <Point X="3.333" Y="4.844" Type="JumpStart" />
+        <Point X="3.167" Y="4.844" Type="JumpEnd" />
+        <Point X="2.333" Y="4.844" Type="JumpStart" />
+        <Point X="2.167" Y="4.844" Type="JumpEnd" />
+        <Point X="2" Y="4.844" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.227" Y="0.096" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgCAAIQkUIIAAAQIAAIAICECAAAAgEAgAAEEEQIAQAA=</HashCode>
+      <FileName>C_TRAINING.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_ENROLLMENTS" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_LESSONS">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAEoASAAAIAAIAECAAAAAAAEIgAQAEAAIBEAQ=</HashCode>
+      <FileName>C_LESSONS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_COURSES">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACmKAgCAIJABACACQAAAAAEMAkAAAEAAMACCA=</HashCode>
+      <FileName>C_COURSES.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_LESSONS" />
+      <Property Name="C_TRAINING" />
+      <Property Name="C_QUIZZES" />
+      <Property Name="C_TACKS" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_TRACKS">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQoEGIAgEAAJAAAAAAQAAAAAAEIFAQAAAEAACAA=</HashCode>
+      <FileName>C_TRACKS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_COURSES" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_QUIZZES">
+    <Position X="9" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAkIAAggINAAoCAmAAAAIAAEAggSAGAAIAACA=</HashCode>
+      <FileName>C_QUIZZES.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_RESULTS" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_TACKS">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIBAEJQgAAAIAACAYCCAAAIAAEAkAAEECAIAgAA=</HashCode>
+      <FileName>C_TACKS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="C_SUBMISSION" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.ProMng">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAYAQAFAAAAAAAQAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ProManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CoursesLibraryElectornic.OpreationProject">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpreationProject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

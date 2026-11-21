@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoursesLibraryElectornic.C_COURSES" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACmKAgCAIJABACACQAAAAAEMAkAAAEAAMACCA=</HashCode>
+      <FileName>C_COURSES.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_ENROLLMENTS" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAgFEIAKAAQIAAAAAAAAAAAIAkEAAAEAGAAAAAA=</HashCode>
+      <FileName>C_ENROLLMENTS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_LESSONS" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAEoASAAAIAAIAECAAAAAAAEIgAQAEAAIBEAQ=</HashCode>
+      <FileName>C_LESSONS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_RESULTS" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEEIQAhAwIAggAAAAAgQAAAkAAAUAACAAAAAg=</HashCode>
+      <FileName>C_RESULTS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SUBMISSION" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABEEIBAQE0IAAACAQAAAgAAAkgAACgACAAAAAA=</HashCode>
+      <FileName>C_SUBMISSION.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SYSTEMACTIVITY" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEIAAAAAIAAAAAAABAAAAAkAAAAIACECAABA=</HashCode>
+      <FileName>C_SYSTEMACTIVITY.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_SYSTEMPREMISSION" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEIAAAAAIAAAIAAAAAAAAEEAAAAABAAAAAAA=</HashCode>
+      <FileName>C_SYSTEMPREMISSION.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_TRAINING" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAIQkUIIAAAQIAAIAICECAAAAgEAgAAEEEQIAQAA=</HashCode>
+      <FileName>C_TRAINING.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_USERPERMISSIONS" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEIAAAAAIAAAAAIAAAAAAAkAAAAABCAAAAAA=</HashCode>
+      <FileName>C_USERPERMISSIONS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.FrmLodin" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEkAIJRgACAABBIAACKACAACaAAEAABAAioAAQBAIAg=</HashCode>
+      <FileName>CoursesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.C_USER" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgGOAAIJAZEAAAAIIBAQMAAEAkAQAEMAABBAA=</HashCode>
+      <FileName>CUSER.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCourses" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIWAgCpKwSIEEJCBCBAQAEABAkDQD2JCIoQQhES3Hw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.Formag" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Formag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.FrmForgetPassword" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgKAAAUCAABCAAEgCAAAgABAAAGAAEAABAgA=</HashCode>
+      <FileName>FrmForgetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.FrmSignUp" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAiAAABCACACQEIAABKJIAgCCAFAAIIAAgQAQAABCAA=</HashCode>
+      <FileName>FrmSignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.ENRILLMENTTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.COURSESTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.LESSONSTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.QUIZZESTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.SUBMISSIONSTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.TASKSTableAdapter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.TRACKSTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.TRAININGTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.USERSTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.RESULTSTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.SYSTEMPERMISSIONTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.SYSTEMACTIVITY1TableAdapter" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.USERPERMISSIONSTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoursesLibraryElectornic.DataCoursesTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwGAACBIAABABAElgKBBMyAgABAChABAQAQgAAKABAU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
